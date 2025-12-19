@@ -62,6 +62,9 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
+  include:
+    - en
+    - zh-CN
 
 # Category & Tag
 default_category: uncategorized
